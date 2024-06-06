@@ -34,6 +34,23 @@ IPV4 - formato de 32 bits dividio em 8 octetos , pode variar de 0 ate 255
  
 IPV6 - formato de 128 bits divido em 16 pares . 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Calculando sub redes 
+
+e permetindo conexão entre essas sub redes
+
+dividir a rede em sub partamentos.
+
+Colocando oq for preciso como prioridades
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dominio - e nada menos que um ip publico , em formato de domino pra facilitar mais 
+
+DNS - e dividido em varios servidores, tendo um servidor raiz , ate chegar onde vc deseja 
+
+https- protocolo , www - subodominio , umbler.com - dominio , br - subdiretorio
 
 
 

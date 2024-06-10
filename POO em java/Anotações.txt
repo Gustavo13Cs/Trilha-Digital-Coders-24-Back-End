@@ -6,4 +6,4 @@ Encapsulamento - evita que qualquer pessoa use nossos metodos e atributos etc. p
 
 Construtores - são os que constroi os objetos , e como se ele fosse um pedreiro , classe e o engenheiro , e o construtor o pedreiro 
 
-Modelagem orientada a objetos - 
+

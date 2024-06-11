@@ -8,5 +8,8 @@ Pilha é uma estrutura de dados ordenada onde o ultimo elemento inserido será o
 
 A extremida por onde é feita inserção e remoção de elementos é denominada top.
 
+Fila - e uma estrutura onde primeiro elemento inserido sera o primeiro a ser retirado 
+
+
 
 
